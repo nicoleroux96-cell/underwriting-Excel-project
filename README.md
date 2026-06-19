@@ -96,44 +96,11 @@ OTHER AREAS
 -	These contain the PivotTables, formulas, and calculations needed to populate the items on the “Dashboard” sheet
 -	The “KPI’s” page contains the array for data validation on the “Risk Level” column on the “Policy Table” sheet
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Sheet 2
-Brief description.
-
-### Sheet 3
-Brief description.
-
-
-
-### KPI calculations
+### KPI calculations picccccccc
 
 ![KPI calculations](screenshots/KPI calculations.png)
 
-### PivotTables
+### PivotTables piccccccccccc
 
 ![PivotTables](screenshots/PivotTables.png)
 
