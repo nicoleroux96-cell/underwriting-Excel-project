@@ -59,7 +59,7 @@ Final Risk Level (column P)
 ### add policy table screenshot 
 
 ![policy table](screenshots/policy table.png)
-
+--------------------------------
 ### “Dashboard” sheet
 
 -	If a new policy was added to the “Policy Table” sheet, click on any of the pivot charts, go “PivotChart Analyze” at the top, and hit refresh
@@ -77,7 +77,8 @@ Final Risk Level (column P)
 -	If the number is 20 or less, it will be shaded the same blue as rest of box 
 -	If number is between 21 and 40, it will be shaded yellow 
 -	If number is 41 or more, it will be shaded red
---------------------------------
+
+
 -	”Todays Date” in the upper right is the date that the spreadsheet views as the current day
 -	Changing it will alter the “Policy Table” sheet, as it influences the “Days Until Expiry” of each policy, and thus also the “Policy Status” and which policies are treated as “Expired”
 -	Changing it will also affect the “POLICIES EXPIRING SOON (WITHIN 30 DAYS)” box on this sheet
