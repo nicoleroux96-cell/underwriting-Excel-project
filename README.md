@@ -1,3 +1,4 @@
+<img width="1741" height="740" alt="policy table" src="https://github.com/user-attachments/assets/369226c3-cde0-43a1-b749-40a6cf813973" />
 # underwriting-Excel-project
 
 
