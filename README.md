@@ -62,31 +62,29 @@ Final Risk Level (column P)
 
 ### “Dashboard” sheet
 
-•	If a new policy was added to the “Policy Table” sheet, click on any of the pivot charts, go “PivotChart Analyze” at the top, and hit refresh
-•	This will update all the PivotCharts (and PivotTables) to include this new insurance policy
-•	Do this as well when a policy is conversely removed from the “Policy Table” sheet
+-	If a new policy was added to the “Policy Table” sheet, click on any of the pivot charts, go “PivotChart Analyze” at the top, and hit refresh
+-	This will update all the PivotCharts (and PivotTables) to include this new insurance policy
+-	Do this as well when a policy is conversely removed from the “Policy Table” sheet
 
 “POLICIES EXPIRING SOON (WITHIN 30 DAYS)”
-•	Counts the total such policies on the “Policy Table” sheet
-•	If the number is 10 or less, it will be shaded the same blue as rest of box 
-•	If number is between 11 and 25, it will be shaded yellow 
-•	If number is 26 or more, it will be shaded red
+-	Counts the total such policies on the “Policy Table” sheet
+-	If the number is 10 or less, it will be shaded the same blue as rest of box 
+-	If number is between 11 and 25, it will be shaded yellow 
+-	If number is 26 or more, it will be shaded red
 
 “(FINAL) HIGH-RISK POLICIES”
-•	Counts the total such policies on the “Policy Table” sheet
-•	If the number is 20 or less, it will be shaded the same blue as rest of box 
-•	If number is between 21 and 40, it will be shaded yellow 
-•	If number is 41 or more, it will be shaded red
+-	Counts the total such policies on the “Policy Table” sheet
+-	If the number is 20 or less, it will be shaded the same blue as rest of box 
+-	If number is between 21 and 40, it will be shaded yellow 
+-	If number is 41 or more, it will be shaded red
+--------------------------------
+-	”Todays Date” in the upper right is the date that the spreadsheet views as the current day
+-	Changing it will alter the “Policy Table” sheet, as it influences the “Days Until Expiry” of each policy, and thus also the “Policy Status” and which policies are treated as “Expired”
+-	Changing it will also affect the “POLICIES EXPIRING SOON (WITHIN 30 DAYS)” box on this sheet
 
+-	Each of the 4 slicers in the bottom left are connected to all 4 of the pivot charts
 
-•	”Todays Date” in the upper right is the date that the spreadsheet views as the current day
-•	Changing it will alter the “Policy Table” sheet, as it influences the “Days Until Expiry” of each policy, and thus also the “Policy Status” and which policies are treated as “Expired”
-•	Changing it will also affect the “POLICIES EXPIRING SOON (WITHIN 30 DAYS)” box on this sheet
-
-•	Each of the 4 slicers in the bottom left are connected to all 4 of the pivot charts
-
-
-•	Both statements to the right of the slicers are dynamic, in that parts of them can/will change as the “Policy Table” sheet changes
+-	Both statements to the right of the slicers are dynamic, in that parts of them can/will change as the “Policy Table” sheet changes
 
 
 
