@@ -57,6 +57,7 @@ Final Risk Level (column P)
 -	Is “Low” if “Final Risk Score” is 2 or less
 
 <img width="1741" height="740" alt="policy table" src="https://github.com/user-attachments/assets/369226c3-cde0-43a1-b749-40a6cf813973" />
+
 --------------------------------
 ### “Dashboard” sheet
 
@@ -86,6 +87,7 @@ OTHER AREAS
 -	Both statements to the right of the slicers are dynamic, in that parts of them can/will change as the “Policy Table” sheet changes
 
 <img width="1760" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/16f4c3dd-cd49-4c34-ad14-23950e6b5e34" />
+
 --------------------------------
 ### “PivotTables” and “KPI calculations” sheets 
 
