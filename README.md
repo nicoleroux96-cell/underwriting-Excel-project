@@ -20,9 +20,9 @@ This workbook contains multiple worksheets used to organize, analyze, and summar
 
 ### “Policy Table” sheet
 
-•	The slicers at the top allow you to filter the table based on many of the column headers 
-•	The “Premium”, “Coverage Limit”, and “Claims Count” columns all have data validation, and will not allow negative numbers to be entered
-•	The “End Date” column has data validation, and will not allow a date to be entered that’s earlier than the “Start Date” to it’s left
+- The slicers at the top allow you to filter the table based on many of the column headers 
+- The “Premium”, “Coverage Limit”, and “Claims Count” columns all have data validation, and will not allow negative numbers to be entered
+- The “End Date” column has data validation, and will not allow a date to be entered that’s earlier than the “Start Date” to it’s left
 
 Days Until Expiry (column K)
 •	This was calculated by taking the “End Date” and subtracting “Today’s date” which is found in cell AA4 in the sheet “Dashboard”
