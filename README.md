@@ -104,7 +104,7 @@ OTHER AREAS
 
 To interact with the workbook itself:
 
-1. Open the Excel file in this repository('underwriting_project_workbook')
+1. Open the Excel file in this repository ('underwriting_project_workbook.xlsx')
 2. Download the workbook.
 3. Open it using Microsoft Excel.
 
