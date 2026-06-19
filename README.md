@@ -56,10 +56,7 @@ Final Risk Level (column P)
 -	Is “Medium” if “Final Risk Score” is 3 or 4
 -	Is “Low” if “Final Risk Score” is 2 or less
 
-### add policy table screenshot 
 <img width="1741" height="740" alt="policy table" src="https://github.com/user-attachments/assets/369226c3-cde0-43a1-b749-40a6cf813973" />
-
-![policy table](screenshots/policy table.png)
 --------------------------------
 ### “Dashboard” sheet
 
@@ -88,23 +85,13 @@ OTHER AREAS
 
 -	Both statements to the right of the slicers are dynamic, in that parts of them can/will change as the “Policy Table” sheet changes
 
-### Dashboard screenshotttttttttttt
 <img width="1760" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/16f4c3dd-cd49-4c34-ad14-23950e6b5e34" />
-
-![Dashboard](screenshots/dashboard.png)
 --------------------------------
 ### “PivotTables” and “KPI calculations” sheets 
 
 -	These contain the PivotTables, formulas, and calculations needed to populate the items on the “Dashboard” sheet
 -	The “KPI’s” page contains the array for data validation on the “Risk Level” column on the “Policy Table” sheet
 
-### KPI calculations picccccccc
-
-![KPI calculations](screenshots/KPI calculations.png)
-
-### PivotTables piccccccccccc
-
-![PivotTables](screenshots/PivotTables.png)
 <img width="693" height="436" alt="PivotTables" src="https://github.com/user-attachments/assets/75db0a4c-33c3-4b49-993d-ceaf2675b005" />
 
 <img width="565" height="284" alt="KPI calculations " src="https://github.com/user-attachments/assets/98121f08-28bb-4a4e-aa49-0967c04e88fe" />
