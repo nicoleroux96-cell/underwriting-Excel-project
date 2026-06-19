@@ -87,6 +87,14 @@ OTHER AREAS
 
 -	Both statements to the right of the slicers are dynamic, in that parts of them can/will change as the “Policy Table” sheet changes
 
+### Dashboard screenshotttttttttttt
+
+![Dashboard](screenshots/dashboard.png)
+--------------------------------
+### “PivotTables” and “KPI calculations” sheets 
+
+-	These contain the PivotTables, formulas, and calculations needed to populate the items on the “Dashboard” sheet
+-	The “KPI’s” page contains the array for data validation on the “Risk Level” column on the “Policy Table” sheet
 
 
 
@@ -119,11 +127,7 @@ Brief description.
 ### Sheet 3
 Brief description.
 
-## Screenshots
 
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
 
 ### KPI calculations
 
