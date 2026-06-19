@@ -105,9 +105,6 @@ OTHER AREAS
 To interact with the workbook itself:
 
 1. Open the Excel file in this repository ('underwriting_project_workbook.xlsx')
-2. Download the workbook.
-3. Open it using Microsoft Excel.
+2. Click the download button on the right side of the grey bar
+3. Open using Microsoft Excel.
 
-## About
-
-Created as a portfolio project to demonstrate Excel and analytical skills relevant to underwriting and insurance operations.
