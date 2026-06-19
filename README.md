@@ -7,15 +7,6 @@ This is a dynamically updating underwriting portfolio workbook that tracks indiv
 
 This workbook contains multiple worksheets used to organize, analyze, and summarize insurance-related data using Excel formulas, reporting tools, and data analysis techniques.
 
-## Skills Demonstrated
-
-- PivotTables and PivotCharts
-- Conditional formatting/logic
-- Data validation
-- Data Cleaning
-- Reporting
-- Insurance Data Analysis
-
 ## Workbook Structure
 
 ### “Policy Table” sheet
@@ -98,7 +89,14 @@ OTHER AREAS
 
 <img width="565" height="284" alt="KPI calculations " src="https://github.com/user-attachments/assets/98121f08-28bb-4a4e-aa49-0967c04e88fe" />
 
+## Excel Skills Demonstrated
 
+- PivotTables and PivotCharts
+- Conditional formatting/logic
+- Data validation
+- Data Cleaning
+- Data Analysis
+- Reporting
 
 ## Viewing the Workbook
 
